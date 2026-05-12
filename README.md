@@ -1,5 +1,5 @@
 # Hi, I'm Venkata Sai Karthik Pyla! 👋
-### 🤖 AI/ML Engineer | 💻 3rd Year B.Tech CSE
+### 🤖 AI/ML Engineer | 💻 Final Year B.Tech CSE
 ### 🛠️ Arsenal
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
