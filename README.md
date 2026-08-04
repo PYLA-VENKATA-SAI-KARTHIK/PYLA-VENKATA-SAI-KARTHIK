@@ -12,10 +12,32 @@
 
 ## 🛠️ Technical Arsenal
 
-- **Generative AI & LLMs:** LangChain, LlamaIndex, RAG Systems, Multi-Agent Workflows, Prompt Engineering, Vector Databases (Pinecone, ChromaDB, FAISS)
-- **Machine Learning & Deep Learning:** Python, PyTorch, TensorFlow, Scikit-Learn, Fine-Tuning LLMs, Embeddings
-- **Software & Cloud Engineering:** TypeScript, Google Cloud Platform (GCP), REST APIs, Node.js, Fast API
-- **Developer Tools:** Git/GitHub, Docker, Linux, Jupyter Notebooks
+#### **Generative AI & LLM Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+#### **Machine Learning & Deep Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### **Software & Cloud Engineering**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### **Developer Tools & Infrastructure**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -25,7 +47,7 @@
 *Explainable Medication Safety & Intelligence Assistant*
 
 - **Core Capabilities:** Real-time medicine scanning, plain-language drug interaction analysis, dosage schedule management, and guardrailed medical chat.
-- **Tech Stack:** TypeScript, Next.js / React, Vector Search, LLM APIs.
+- **Tech Stack:** TypeScript, Next.js, React, Vector Search, LLM APIs.
 - **Key Takeaway:** Engineered with safety-first guardrails to translate complex medical data into intuitive, accurate user insights.
 
 ---
@@ -45,13 +67,3 @@
 - **Core Capabilities:** High-accuracy document context retrieval, semantic vector search, dynamic chunking, and grounded query responses.
 - **Tech Stack:** Python, Vector Databases, Embeddings Models, LangChain / LlamaIndex.
 - **Key Takeaway:** Built to minimize hallucinations by strictly grounding LLM generation on private enterprise documentation.
-
----
-
-## 🎯 Profile Optimization Checklist (Next Steps)
-
-To make your GitHub profile look like an enterprise-ready portfolio:
-
-1. **Add Project Architecture Diagrams:** In each repository (`MEDINTEL-AI`, `AI-Email-Automation-System`, and `Rag_document_assistant`), add a clean ASCII or Mermaid diagram in the README showing data flow (e.g., `User Query -> Embeddings -> Vector DB -> LLM Context -> Response`).
-2. **Add Live Demos / Video Links:** Include deployment links (Vercel, Streamlit, Hugging Face Spaces) or a 30-second demo GIF at the top of each repository README.
-3. **Repository Tags (Topics):** Add relevant topics to each repo (e.g., `rag`, `langchain`, `llm`, `typescript`, `python`, `generative-ai`) to increase search visibility.
